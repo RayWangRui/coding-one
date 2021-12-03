@@ -19,7 +19,7 @@ People lost in the grid
 
 Ray Wang - 20011197
 
-< img src="https://github.com/RayWangRui/coding-one/blob/main/1%20%E4%B8%8A%E5%8D%886.31.22.png"> 
+< img src="https://github.com/RayWangRui/coding-one/edit/main/README.md"> 
 
 
 My inspiration comes from an experience that my computer broke down and my friend's mobile phone was lost. I know that electronic devices and the Internet play a vital role in human life, but this idea has always been conceptual, and I haven't felt anything wrong, but when my computer broke down again, I had a feeling of "losing contact with the world". I can't do my daily work, I can't easily send e-mail to get in touch with others, and there are fewer ways of entertainment, including online shopping, and there are problems with a series of authentication methods. Until this time, I really found that we live in an Internet world, especially young people. I began to think, is this really the right way?
