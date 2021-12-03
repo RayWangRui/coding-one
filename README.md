@@ -8,6 +8,7 @@ https://youtu.be/9lylbFIHjk8
 
 Github URL  (code) :
 https://github.com/RayWangRui/coding-one/blob/main/Fianl%20Project%20Code
+![Image text](https://github.com/RayWangRui/coding-one/blob/main/B.png)
 
 #FINAL PROJECT
 
